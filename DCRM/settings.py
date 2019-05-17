@@ -57,7 +57,7 @@ SECURE_SSL = True  # https -> True
 
 # SECURITY
 ALLOWED_HOSTS = [
-    'apt.82flex.com',
+    'dcrmv4.herokuapp.com',
     '127.0.0.1',
     'localhost'
 ]
